@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+.DS_Store
+
+# gros fichiers generes (a regenerer avec producer.py)
+data/transactions_history.jsonl
