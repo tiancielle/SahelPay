@@ -1,7 +1,6 @@
 # SahelPay - Plateforme Big Data (Spark, Kafka, GraphX, GraphFrames)
 
-Projet Ecosysteme Big Data 2 - EMSI 5eme annee (2026-2027).
-Binome : **[Prenom NOM]** et **[Prenom NOM]**
+
 
 Chaine : `producer.py -> Kafka -> Spark Structured Streaming -> MinIO (Bronze/Silver/Gold) -> GraphX / GraphFrames`
 
